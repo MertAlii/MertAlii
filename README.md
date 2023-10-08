@@ -52,3 +52,7 @@
 <p align="left">*Hyper OS<br>Coming soon<br>Coming soon<br>Coming soon</p>
 
 ###
+
+![snake gif](https://github.com/mertalii/mertalii/blob/output/github-contribution-grid-snake.gif)
+
+
