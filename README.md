@@ -53,6 +53,4 @@
 
 ###
 
-![snake gif](https://github.com/mertalii/mertalii/blob/output/github-contribution-grid-snake.gif)
-
 
