@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/mer1.alii/" target="_blank">
+  <a href="www.instagram.com/mer1.alii/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">*Hyper OS<br>Coming soon<br>Coming soon<br>Coming soon</p>
+<p align="left">*Hyper OS ⚠️Dosyaları kaldırıldı⚠️<br>Coming soon<br>Coming soon<br>Coming soon</p>
 
 ###
 
