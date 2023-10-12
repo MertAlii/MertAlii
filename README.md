@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">1-Computer games(Cs 2,Valorant)🎮<br>2-Football(Amateurs)⚽<br>3-Fitness 💪<br>4-And more!</p>
+<p align="left">1-Computer games(Cs 2,Valorant)🎮<br>2-Football⚽<br>3-Fitness 💪<br>4-And more!</p>
 
 
 <h1 align="left">Project</h1>
