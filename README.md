@@ -5,7 +5,6 @@
 <p align="left">-Hello, I'm Mert Ali Alkan, I'm 18 years old. I'm studying at Sivas Cumhuriyet University in the 1st year Information Systems and Technologies department.</p>
 <p align="left">-A young man trying to learn software
 
-  
 ###
 
 <h2 align="left">Hobbies</h2>
