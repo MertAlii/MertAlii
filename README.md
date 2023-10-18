@@ -1,25 +1,32 @@
 <h1 align="left">ByMertAlii</h1>
 
-###
+-Hi, I'm [Mert Ali Alkan](https://www.instagram.com/mer1.alii/), I'm 18 years old. I'm studying at Sivas Cumhuriyet University in the 1st year Information Systems and Technologies department.
 
-<p align="left">-Hello, I'm Mert Ali Alkan, I'm 18 years old. I'm studying at Sivas Cumhuriyet University in the 1st year Information Systems and Technologies department.</p>
-<p align="left">-A young man trying to learn software
+-A young man trying to learn software
 
-###
+<img align="right" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="480" height="268" />
 
-<h2 align="left">Hobbies</h2>
+- 💼 any freelance work? do reach, [email](mertali.al5555@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
-###
+**languages and tools:**  
 
-<p align="left">1-Computer games 🎮<br>2-Football ⚽<br>3-Fitness 💪<br>4-And more!</p>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"></code>
 
+😶‍🌫️ **Hobbies:**
+<!--START_SECTION:waka-->
 
-<h1 align="left">Project</h1>
+```txt
+1-Computer games 🎮
+2-Football ⚽
+3-Fitness 💪
+4-And more!
+```
 
-###
+<!--END_SECTION:waka-->
 
-<p align="left">*Hyper OS ⚠️Dosyaları kaldırıldı⚠️<br>Coming soon<br>Coming soon<br>Coming soon</p>
+📈 my github stats
 
-###
-
-
+<p align="center"> <img align="left"  src="https://github-readme-stats.vercel.app/api?username=MertAlii&show_icons=true&theme=gotham" alt="MertAlii" />
