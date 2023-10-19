@@ -4,7 +4,6 @@
 
 -A young man trying to learn software
 
-<img align="right" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="480" height="268" />
 
 - 💼 any freelance work? do reach, [email](mertali.al5555@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
